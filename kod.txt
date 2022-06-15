@@ -1,4 +1,7 @@
 hello world!
 komendy wazne:
-git clone twojlink
+git clone twojLink
 git status (najpierw trzeba do folderu wejsc za pomocą cd, gdzie slashe musze byc zwrocone w lewo, /)
+git add twojPlik
+git commit -m "twoja wersja"
+git push origin main(lub master)
