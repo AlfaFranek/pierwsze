@@ -1,0 +1,4 @@
+hello world!
+komendy wazne:
+git clone twojlink
+git status (najpierw trzeba do folderu wejsc za pomocą cd, gdzie slashe musze byc zwrocone w lewo, /)
